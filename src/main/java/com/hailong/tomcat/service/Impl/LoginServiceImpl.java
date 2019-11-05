@@ -16,4 +16,9 @@ public class LoginServiceImpl implements LoginService {
     public String login() {
         return "Hello word";
     }
+
+    @Override
+    public String regist() {
+        return "Regist User for password";
+    }
 }
