@@ -11,7 +11,7 @@
     <groupId>com.hailong</groupId>
     <artifactId>tomcat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ROOT</name>
+    <name>tomcat</name>
     <packaging>war</packaging>
 
     <description>Demo project for Spring Boot</description>
