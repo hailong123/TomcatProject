@@ -10,4 +10,6 @@ public interface LoginService {
     String login();
 
     String regist();
+
+    String test();
 }

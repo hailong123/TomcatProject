@@ -29,4 +29,8 @@ public class LoginEndpoint {
         return loginService.regist();
     }
 
+    @GetMapping("/test")
+    public String test() {
+        return loginService.test();
+    }
 }

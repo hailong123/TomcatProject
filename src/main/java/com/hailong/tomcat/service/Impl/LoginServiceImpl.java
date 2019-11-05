@@ -21,4 +21,10 @@ public class LoginServiceImpl implements LoginService {
     public String regist() {
         return "Regist User for password";
     }
+
+    @Override
+    public String test() {
+        return "testing";
+    }
+
 }
